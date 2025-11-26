@@ -11,4 +11,4 @@ Real-Time Risk Scoring & Monitoring (Compass & API Access)
 Flow-of-Funds Analysis: End-to-end tracing of transactions to map origins, destinations, and intermediary flows for AML compliance.</li>
 </ol>
 
-*Complimentary API access for early-stage projects(1,000 calls/year). 
+*Complimentary API access for early-stage projects (1,000 calls/year). 
